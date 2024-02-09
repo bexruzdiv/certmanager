@@ -1,0 +1,4 @@
+---
+# defaults file for prxmkuberbootstrap_certmanager
+prxmkuberbootstrap_certmanager_email: example.gmail.com
+prxmkuberbootstrap_certmanager_version: v1.13.2
